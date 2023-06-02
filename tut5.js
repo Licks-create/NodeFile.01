@@ -1,6 +1,7 @@
 f=[1,2,3,4].map((x)=>x%2==0)
 // console.log(f);
 // s=[{tital:"vivek1",key:"ojha1"},{tital:"vivek2",key:"ojha2"}]
+// passing destructured object as argument
 // cb=({tital,key})=>console.log(tital,key)
 // cb(s[0])
 
